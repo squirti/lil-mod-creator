@@ -9,7 +9,7 @@ For any GitHub contributors who would wish to help with the progress of the app,
 
 ![image](https://github.com/user-attachments/assets/20ece468-28ea-4789-a033-8d12a5a9b677)
 
-The main contributors to credit are:
+The main contributors/collaborators to credit are:
 
 - squirti/Br0nzy (depending on the account)
 - abstractmelon on the lilguys discord
