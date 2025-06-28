@@ -12,7 +12,7 @@ For any GitHub contributors who would wish to help with the progress of the app,
 The main contributors to credit are:
 
 - squirti/Br0nzy (depending on the account)
-- </abstractmelon> on the lilguys discord
+- abstractmelon on the lilguys discord
 
 For download, go to the release as seen in the image below. Thank you!
 
