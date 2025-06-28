@@ -1,0 +1,28 @@
+{
+    "name": "add_item_to_container",
+    "validate": [
+        [
+            "Exists",
+            "$job:target"
+        ]
+    ],
+    "tasks": [
+        [
+            "MoveTo",
+            "$job:source",
+            56
+        ],
+        [
+            "RemoveFrom",
+            "$job:source"
+        ],
+        [
+            "MoveTo",
+            "$job:target"
+        ],
+        [
+            "AddTo",
+            "$job:target"
+        ]
+    ]
+}

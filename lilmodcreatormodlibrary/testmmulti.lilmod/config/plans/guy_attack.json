@@ -1,0 +1,47 @@
+{
+    "name": "guy_attack",
+    "default_priority": 11,
+    "tasks": [
+        "#Start",
+        [
+            "JumpIf",
+            [
+                [
+                    "AwayFrom",
+                    "$job:target",
+                    60
+                ]
+            ],
+            "#Kick"
+        ],
+        [
+            "MoveTo",
+            "$job:target",
+            36
+        ],
+        [
+            "Attack",
+            "$job:target",
+            "Punch"
+        ],
+        [
+            "Jump",
+            "#Start"
+        ],
+        "#Kick",
+        [
+            "MoveTo",
+            "$job:target",
+            48
+        ],
+        [
+            "Attack",
+            "$job:target",
+            "Kick"
+        ],
+        [
+            "Jump",
+            "#Start"
+        ]
+    ]
+}
