@@ -14,4 +14,6 @@ The main contributors to credit are:
 - squirti/Br0nzy (depending on the account)
 - </abstractmelon> on the lilguys discord
 
-For download, go to the release. Thank you!
+For download, go to the release as seen in the image below. Thank you!
+
+![image](https://github.com/user-attachments/assets/0af0830d-b320-4e8d-87d7-9bef9f524eb2)
