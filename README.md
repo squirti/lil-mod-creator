@@ -1,4 +1,7 @@
 # lil-mod-creator
+
+# for help using Lil Lab please go to the docs folder thank you!
+
 An app that allows editing the lil guy's game by Radnyx easier in every way, this app, however, is very beta and needs some major updates coming in the main release, so expect missing features and some bugs. Thank you for using the app, however (if you do decide to)
 
 if you haven't joined the lil guys discord please do, you'll find modding help there in their official channel (please understand this is **not** our discord server but the official games server
@@ -12,7 +15,6 @@ For any GitHub contributors who would wish to help with the progress of the app,
 The main contributors/collaborators to credit are:
 
 - squirti/Br0nzy (depending on the account)
-- abstractmelon on the lilguys discord
 
 For download, go to the release as seen in the image below. Thank you!
 
