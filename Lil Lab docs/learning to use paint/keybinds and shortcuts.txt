@@ -1,0 +1,21 @@
+;Main Keybinds;
+
+paint::
+:Mouse Button Right ::
+
+undo::
+:Ctrl & Z ::
+
+redo::
+:Ctrl & Shift & R ::
+
+;Secondary/tool Keybinds;
+
+save:
+:Ctrl & S ::
+
+erase:
+:Ctrl & E ::
+
+clear:
+:Ctrl & Shift & c ::
